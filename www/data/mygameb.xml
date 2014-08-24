@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<player>
+		<name>TAT</name>
+		<score>12345</score>
+	</player>
+	<player>
+		<name>BAT</name>
+		<score>12344</score>
+	</player>
+	<player>
+		<name>RAT</name>
+		<score>12343</score>
+	</player>
+	<player>
+		<name>SAT/name>
+		<score>12342</score>
+	</player>
+	<player>
+		<name>MAT</name>
+		<score>12341</score>
+	</player>
+</root>
